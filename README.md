@@ -27,6 +27,7 @@ Find me on Hack The Box, VulnLab, PwnedLabs, etc.
 - GitHub: <https://github.com/bryanmcnulty>
 - HTB: <https://app.hackthebox.com/profile/905477>
 - PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
+- ADMinions: <https://adminions.ca>
 
 ### Contact
 - Email: <bryanmcnulty@protonmail.com>
