@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an ethical hacker/pentester/red teamer specializing in Active Directory.
+
+_Looking into cloud security 👀_
+
+Find me on Hack The Box, VulnLab, PwnedLabs, etc.
+
+### CTF / Socials
+- Blog: <https://bryanmcnulty.com>
+- LinkedIn: <https://www.linkedin.com/in/bryanmcnulty>
+- GitHub: <https://github.com/bryanmcnulty>
+- HTB: <https://app.hackthebox.com/profile/905477>
+- PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
+
+### Contact
+- Email: <bryanmcnulty@protonmail.com>
+- Discord: [@bryanmcnulty](https://discord.com/users/844241499859451924)
