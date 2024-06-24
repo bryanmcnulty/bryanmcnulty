@@ -29,6 +29,11 @@ Find me on Hack The Box, VulnLab, PwnedLabs, etc.
 - PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
 - ADMinions: <https://adminions.ca>
 
+### CTF Team
+- Site: <https://adminions.ca>
+- Profile: <https://adminions.ca/books/the-team/page/bryan-mcnulty>
+- HTB: <https://app.hackthebox.com/teams/overview/5904>
+
 ### Contact
 - Email: <bryanmcnulty@protonmail.com>
 - Discord: [@bryanmcnulty](https://discord.com/users/844241499859451924)
