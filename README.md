@@ -24,12 +24,11 @@ Find me on Hack The Box, VulnLab, PwnedLabs, etc.
 ### CTF / Socials
 - Blog: <https://bryanmcnulty.com>
 - LinkedIn: <https://www.linkedin.com/in/bryanmcnulty>
-- GitHub: <https://github.com/bryanmcnulty>
 - HTB: <https://app.hackthebox.com/profile/905477>
 - PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
 - ADMinions: <https://adminions.ca>
 
-### CTF Team
+### CTF Team (ADMinions)
 - Site: <https://adminions.ca>
 - Profile: <https://adminions.ca/books/the-team/page/bryan-mcnulty>
 - HTB: <https://app.hackthebox.com/teams/overview/5904>
