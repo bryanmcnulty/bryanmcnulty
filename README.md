@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an ethical hacker/pentester/red teamer specializing in Active Directory.
+I'm an ethical hacker/pentester/red teamer specializing in web & Active Directory.
 
 _Looking into cloud security 👀_
 
