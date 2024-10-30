@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 I'm an ethical hacker/pentester/red teamer specializing in web & Active Directory.
 
-_Looking into cloud security 👀_
-
-Find me on Hack The Box, VulnLab, PwnedLabs, etc.
+_Learning web application security @[PortSwigger](https://portswigger.net/web-security) 🕸️_ <br>
+_Learning Active Directory security @ [VulnLab](https://vulnlab.com) 🖥️_ <br>
+_Learning cloud security @ [PwnedLabs](https://pwnedlabs.io/users/bryanmcnulty) ☁️_ <br>
+_Learning mobile security @[HexTree](https://app.hextree.io/profile/bryan) 📱_
 
 ### CTF / Socials
 - Blog: <https://bryanmcnulty.com>
 - LinkedIn: <https://www.linkedin.com/in/bryanmcnulty>
 - HTB: <https://app.hackthebox.com/profile/905477>
 - PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
+- HexTree: <https://app.hextree.io/profile/bryan>
 
 ### CTF Team (ADMinions)
 - Site: <https://adminions.ca>
