@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm an ethical hacker/pentester/red teamer specializing in web & Active Directory.
 
-_Learning web application security @[PortSwigger](https://portswigger.net/web-security) 🕸️_ <br>
+_Learning web application security @ [PortSwigger](https://portswigger.net/web-security) 🕸️_ <br>
 _Learning Active Directory security @ [VulnLab](https://vulnlab.com) 🖥️_ <br>
 _Learning cloud security @ [PwnedLabs](https://pwnedlabs.io/users/bryanmcnulty) ☁️_ <br>
-_Learning mobile security @[HexTree](https://app.hextree.io/profile/bryan) 📱_
+_Learning mobile security @ [HexTree](https://app.hextree.io/profile/bryan) 📱_
 
 ### CTF / Socials
 - Blog: <https://bryanmcnulty.com>
