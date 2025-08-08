@@ -28,7 +28,7 @@ _Learning mobile security @ [HexTree](https://app.hextree.io/profile/bryan) 📱
 - Blog: <https://bryanmcnulty.com>
 - LinkedIn: <https://www.linkedin.com/in/bryanmcnulty>
 - HTB: <https://app.hackthebox.com/profile/905477>
-- PwnedLabs: <https://pwnedlabs.io/users/bryanmcnulty>
+- PwnedLabs: <https://pwnedlabs.io/@bryanmcnulty>
 - HexTree: <https://app.hextree.io/profile/bryan>
 
 ### CTF Team (ADMinions)
