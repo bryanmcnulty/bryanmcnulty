@@ -37,5 +37,5 @@ _Learning mobile security @ [HexTree](https://app.hextree.io/profile/bryan) 📱
 - HTB: <https://app.hackthebox.com/teams/overview/5904>
 
 ### Contact
-- Email: <bryanmcnulty@protonmail.com>
+- Email: <github@bryanmcnulty.com>
 - Discord: [@bryanmcnulty](https://discord.com/users/844241499859451924)
