@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an ethical hacker/pentester/red teamer specializing in web & Active Directory.
+I'm an ethical hacker/pentester/red teamer specializing in web & internals/Active Directory.
 
 <!--
 _Learning web application security @ [PortSwigger](https://portswigger.net/web-security) 🕸️_ <br>
@@ -29,7 +29,9 @@ _Learning mobile security @ [HexTree](https://app.hextree.io/profile/bryan) 📱
 - LinkedIn: <https://www.linkedin.com/in/bryanmcnulty>
 - HTB: <https://app.hackthebox.com/profile/905477>
 - PwnedLabs: <https://pwnedlabs.io/@bryanmcnulty>
+- Dreamhack: <https://dreamhack.io/users/81390>
 - HexTree: <https://app.hextree.io/profile/bryan>
+- THM: <https://tryhackme.com/p/bryanmcnulty>
 
 ### CTF Team (ADMinions)
 - Site: <https://adminions.ca>
