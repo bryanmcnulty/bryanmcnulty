@@ -20,5 +20,5 @@ I'm an ethical hacker/pentester/red teamer specializing in web & internals/Activ
 - [HTB team profile](https://app.hackthebox.com/teams/overview/5904)
 
 ### Contact
-- Email: <github@bryanmcnulty.com>
+- Email: <git@bryan.sh>
 - Discord: [@bryanmcnulty](https://discord.com/users/844241499859451924)
