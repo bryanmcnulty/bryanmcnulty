@@ -7,7 +7,7 @@ I'm an ethical hacker/pentester/red teamer specializing in web & internals/Activ
 - [LinkedIn](https://www.linkedin.com/in/bryanmcnulty)
 
 ### CTF Profiles
-- [Hack The Box](https://app.hackthebox.com/profile/905477)
+- [Hack The Box](https://app.hackthebox.com/users/905477)
 - [PwnedLabs](https://pwnedlabs.io/@bryanmcnulty)
 - [Dreamhack](https://dreamhack.io/users/81390)
 - [TryHackMe](https://tryhackme.com/p/bryanmcnulty)
